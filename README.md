@@ -1,6 +1,6 @@
 # ai_1.0
 
-An experimental repo for testing an AI agent harness — using Claude Code's agentic flow to autonomously plan, implement, and ship features across phases.
+An experimental repo for testing [flow](https://github.com/nazanindev/ai-flow), an AI agent harness using Claude Code's agentic flow to autonomously plan, implement, and ship features across phases.
 
 ## About
 
