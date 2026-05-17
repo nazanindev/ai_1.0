@@ -68,3 +68,15 @@ Bet types and payouts:
 - **Column** (1st/2nd/3rd) — pays 2:1
 
 See [`roulette/README.md`](roulette/README.md) for full instructions.
+
+### ♠ ♥ Contract Bridge CLI
+
+The classic four-player trick-taking card game. Play South against AI opponents, bid your contract, then fight to make it through 13 tricks.
+
+```bash
+python -m bridge
+```
+
+Features: ANSI-colored compass table layout, full duplicate scoring (game/slam bonuses, doubled undertricks), and AI bidding based on standard point-count conventions.
+
+See [`bridge/README.md`](bridge/README.md) for full instructions.
